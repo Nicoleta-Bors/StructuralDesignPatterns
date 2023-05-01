@@ -1,0 +1,15 @@
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Decorator_Facade\Decorator_Facade\bin\Debug\net6.0\Decorator_Facade.exe
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Decorator_Facade\Decorator_Facade\bin\Debug\net6.0\Decorator_Facade.deps.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Decorator_Facade\Decorator_Facade\bin\Debug\net6.0\Decorator_Facade.runtimeconfig.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Decorator_Facade\Decorator_Facade\bin\Debug\net6.0\Decorator_Facade.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Decorator_Facade\Decorator_Facade\bin\Debug\net6.0\Decorator_Facade.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Decorator_Facade\Decorator_Facade\obj\Debug\net6.0\Decorator_Facade.csproj.AssemblyReference.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Decorator_Facade\Decorator_Facade\obj\Debug\net6.0\Decorator_Facade.GeneratedMSBuildEditorConfig.editorconfig
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Decorator_Facade\Decorator_Facade\obj\Debug\net6.0\Decorator_Facade.AssemblyInfoInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Decorator_Facade\Decorator_Facade\obj\Debug\net6.0\Decorator_Facade.AssemblyInfo.cs
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Decorator_Facade\Decorator_Facade\obj\Debug\net6.0\Decorator_Facade.csproj.CoreCompileInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Decorator_Facade\Decorator_Facade\obj\Debug\net6.0\Decorator_Facade.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Decorator_Facade\Decorator_Facade\obj\Debug\net6.0\refint\Decorator_Facade.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Decorator_Facade\Decorator_Facade\obj\Debug\net6.0\Decorator_Facade.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Decorator_Facade\Decorator_Facade\obj\Debug\net6.0\Decorator_Facade.genruntimeconfig.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Decorator_Facade\Decorator_Facade\obj\Debug\net6.0\ref\Decorator_Facade.dll

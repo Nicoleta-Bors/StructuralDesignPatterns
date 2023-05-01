@@ -1,0 +1,15 @@
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Bridge\Bridge\bin\Debug\net6.0\Bridge.exe
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Bridge\Bridge\bin\Debug\net6.0\Bridge.deps.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Bridge\Bridge\bin\Debug\net6.0\Bridge.runtimeconfig.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Bridge\Bridge\bin\Debug\net6.0\Bridge.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Bridge\Bridge\bin\Debug\net6.0\Bridge.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Bridge\Bridge\obj\Debug\net6.0\Bridge.csproj.AssemblyReference.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Bridge\Bridge\obj\Debug\net6.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Bridge\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfoInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Bridge\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfo.cs
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Bridge\Bridge\obj\Debug\net6.0\Bridge.csproj.CoreCompileInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Bridge\Bridge\obj\Debug\net6.0\Bridge.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Bridge\Bridge\obj\Debug\net6.0\refint\Bridge.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Bridge\Bridge\obj\Debug\net6.0\Bridge.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Bridge\Bridge\obj\Debug\net6.0\Bridge.genruntimeconfig.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Bridge\Bridge\obj\Debug\net6.0\ref\Bridge.dll

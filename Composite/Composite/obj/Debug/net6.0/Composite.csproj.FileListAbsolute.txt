@@ -1,0 +1,15 @@
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Composite\Composite\bin\Debug\net6.0\Composite.exe
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Composite\Composite\bin\Debug\net6.0\Composite.deps.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Composite\Composite\bin\Debug\net6.0\Composite.runtimeconfig.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Composite\Composite\bin\Debug\net6.0\Composite.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Composite\Composite\bin\Debug\net6.0\Composite.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Composite\Composite\obj\Debug\net6.0\Composite.csproj.AssemblyReference.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Composite\Composite\obj\Debug\net6.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Composite\Composite\obj\Debug\net6.0\Composite.AssemblyInfoInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Composite\Composite\obj\Debug\net6.0\Composite.AssemblyInfo.cs
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Composite\Composite\obj\Debug\net6.0\Composite.csproj.CoreCompileInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Composite\Composite\obj\Debug\net6.0\Composite.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Composite\Composite\obj\Debug\net6.0\refint\Composite.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Composite\Composite\obj\Debug\net6.0\Composite.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Composite\Composite\obj\Debug\net6.0\Composite.genruntimeconfig.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab2\Composite\Composite\obj\Debug\net6.0\ref\Composite.dll
