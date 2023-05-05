@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Decorator_Facade
 {
     // Concrete component class
-    class Coltunasi : FoodItem
+    class Coltunasi : FoodIProduct
     {
         public override string GetDescription()
         {

@@ -9,18 +9,18 @@ namespace Decorator_Facade
     // Concrete decorator class
     class Ardei : ToppingDecorator
     {
-        public Ardei(FoodItem foodItem) : base(foodItem)
+        public Ardei(FoodIProduct foodProduct) : base(foodProduct)
         {
         }
 
         public override string GetDescription()
         {
-            return foodItem.GetDescription() + ", Ardei";
+            return foodProduct.GetDescription() + ", Ardei";
         }
 
         public override double GetPrice()
         {
-            return foodItem.GetPrice() + 5.00;
+            return foodProduct.GetPrice() + 5.00;
         }
     }
 }

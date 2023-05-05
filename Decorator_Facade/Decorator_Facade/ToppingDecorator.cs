@@ -7,23 +7,23 @@ using System.Threading.Tasks;
 namespace Decorator_Facade
 {
     // Decorator abstract class
-    abstract class ToppingDecorator : FoodItem
+    abstract class ToppingDecorator : FoodIProduct
     {
-        protected FoodItem foodItem;
+        protected FoodIProduct foodProduct;
 
-        public ToppingDecorator(FoodItem foodItem)
+        public ToppingDecorator(FoodIProduct foodProduct)
         {
-            this.foodItem = foodItem;
+            this.foodProduct = foodProduct;
         }
 
         public override string GetDescription()
         {
-            return foodItem.GetDescription();
+            return foodProduct.GetDescription();
         }
 
         public override double GetPrice()
         {
-            return foodItem.GetPrice();
+            return foodProduct.GetPrice();
         }
     }
 

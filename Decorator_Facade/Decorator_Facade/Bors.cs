@@ -8,7 +8,7 @@ namespace Decorator_Facade
 {
     // Concrete component class
 
-    class Bors : FoodItem
+    class Bors : FoodIProduct
     {
         public override string GetDescription()
         {

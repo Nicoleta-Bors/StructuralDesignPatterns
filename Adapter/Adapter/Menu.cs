@@ -8,16 +8,16 @@ namespace Adapter
 {
     class Menu
     {
-        private List<IMenuProduct> _menuItems;
+        private List<IMenuProduct> _menuProducts;
 
         public Menu()
         {
-            _menuItems = new List<IMenuProduct>();
+            _menuProducts = new List<IMenuProduct>();
         }
 
-        public void AddItem(IMenuProduct menuItem)
+        public void AddProduct(IMenuProduct menuProduct)
         {
-            _menuItems.Add(menuItem);
+            _menuProducts.Add(menuProduct);
         }
 
         public void Show()
@@ -25,12 +25,12 @@ namespace Adapter
             Console.WriteLine("Menu:");
             Console.WriteLine("==============================");
 
-            foreach (IMenuProduct menuItem in _menuItems)
+            foreach (IMenuProduct menuProduct in _menuProducts)
             {
-                Console.WriteLine("Name: {0}", menuItem.Name);
-                Console.WriteLine("Description: {0}", menuItem.Description);
-                Console.WriteLine("Quantity: {0} gr", menuItem.Quantity);
-                Console.WriteLine("Price: {0} lei", menuItem.Price);
+                Console.WriteLine("Name: {0}", menuProduct.Name);
+                Console.WriteLine("Description: {0}", menuProduct.Description);
+                Console.WriteLine("Quantity: {0} gr", menuProduct.Quantity);
+                Console.WriteLine("Price: {0} lei", menuProduct.Price);
                 Console.WriteLine("==============================");
             }
         }

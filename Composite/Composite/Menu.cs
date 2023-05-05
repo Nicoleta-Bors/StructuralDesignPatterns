@@ -11,31 +11,26 @@ namespace Composite
     class Menu : IFoodProduct
     {
         private string _name;
-        private List<IFoodProduct> _menuItems;
+        private List<IFoodProduct> _menuProduct;
 
         public Menu(string name)
         {
             _name = name;
-            _menuItems = new List<IFoodProduct>();
+            _menuProduct = new List<IFoodProduct>();
         }
 
-        public void AddItem(IFoodProduct item)
+        public void AddProduct(IFoodProduct product)
         {
-            _menuItems.Add(item);
-        }
-
-        public void RemoveItem(IFoodProduct item)
-        {
-            _menuItems.Remove(item);
+            _menuProduct.Add(product);
         }
 
         public void Display()
         {
             Console.WriteLine(_name);
 
-            foreach (IFoodProduct item in _menuItems)
+            foreach (IFoodProduct product in _menuProduct)
             {
-                item.Display();
+                product.Display();
             }
         }
 
@@ -43,9 +38,9 @@ namespace Composite
         {
             decimal totalPrice = 0m;
 
-            foreach (IFoodProduct item in _menuItems)
+            foreach (IFoodProduct product in _menuProduct)
             {
-                totalPrice += item.GetPrice();
+                totalPrice += product.GetPrice();
             }
 
             return totalPrice;

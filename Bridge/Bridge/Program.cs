@@ -13,6 +13,7 @@ namespace Bridge
             int paymentOption = int.Parse(Console.ReadLine());
 
             IPaymentMethod paymentMethod;
+
             if (paymentOption == 1)
             {
                 paymentMethod = new OnlinePayment();
@@ -36,6 +37,7 @@ namespace Bridge
 
             // Plasăm comanda folosind modul de plată selectat
             FoodOrder foodOrder;
+
             if (productOption == 1)
             {
                 foodOrder = new PlacintaCartofOrder(paymentMethod);

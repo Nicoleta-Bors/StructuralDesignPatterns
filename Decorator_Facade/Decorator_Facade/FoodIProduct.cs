@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Decorator_Facade
 {
     // Component abstract class
-    abstract class FoodItem
+    abstract class FoodIProduct
     {
         public abstract string GetDescription();
         public abstract double GetPrice();

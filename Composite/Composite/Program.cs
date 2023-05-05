@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 
-
-
 namespace Composite
 {
     class Program
@@ -19,13 +17,13 @@ namespace Composite
             Menu mainMenu = new Menu("Meniul zilei");
             Menu comboMenu = new Menu("Meniul zilei - Combo");
 
-            // add items to sub-menus
-            mainMenu.AddItem(bors);
-            mainMenu.AddItem(carnaciori);
-            mainMenu.AddItem(compot);
+            // add products to sub-menus
+            mainMenu.AddProduct(bors);
+            mainMenu.AddProduct(carnaciori);
+            mainMenu.AddProduct(compot);
 
-            comboMenu.AddItem(mainMenu);
-            comboMenu.AddItem(salata);
+            comboMenu.AddProduct(mainMenu);
+            comboMenu.AddProduct(salata);
 
             // display menus and prices
             Console.WriteLine("Meniuri:");

@@ -10,18 +10,18 @@ namespace Decorator_Facade
     // Concrete decorator class
     class Smantana : ToppingDecorator
     {
-        public Smantana(FoodItem foodItem) : base(foodItem)
+        public Smantana(FoodIProduct foodProduct) : base(foodProduct)
         {
         }
 
         public override string GetDescription()
         {
-            return foodItem.GetDescription() + ", Smantana";
+            return foodProduct.GetDescription() + ", Smantana";
         }
 
         public override double GetPrice()
         {
-            return foodItem.GetPrice() + 10;
+            return foodProduct.GetPrice() + 10;
         }
     }
 }

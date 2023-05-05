@@ -3,7 +3,6 @@ using System.Collections.Generic;
 
 namespace Decorator_Facade
 {
-
     class Program
     {
         static void Main(string[] args)

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Composite
 {
-    // Component - FoodItem
+    // Component - FoodProduct
     interface IFoodProduct
     {
         void Display();

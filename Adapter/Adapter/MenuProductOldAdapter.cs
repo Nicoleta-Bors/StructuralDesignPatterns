@@ -19,8 +19,8 @@ namespace Adapter
 
         public string Name
         {
-            get { return _menuProductOld.ItemName; }
-            set { _menuProductOld.ItemName = value; }
+            get { return _menuProductOld.ProductName; }
+            set { _menuProductOld.ProductName = value; }
         }
 
         public string Description
@@ -31,8 +31,8 @@ namespace Adapter
 
         public decimal Price
         {
-            get { return _menuProductOld.ItemCost; }
-            set { _menuProductOld.ItemCost = value; }
+            get { return _menuProductOld.ProductCost; }
+            set { _menuProductOld.ProductCost = value; }
         }
 
         public short Quantity
